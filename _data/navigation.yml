@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "HTB"
+    url: /htb
   - title: "Pwn Challenges"
     url: /pwn
   - title: "Binary Exploitation"
