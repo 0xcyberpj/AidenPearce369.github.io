@@ -18,7 +18,7 @@ categories:
   - HTB
 ---
 
-The give box ```LaCasaDePapel``` is a Linux machine with an IP address of ```10.10.10.131```
+The given box ```LaCasaDePapel``` is a Linux machine with an IP address of ```10.10.10.131```
 
 - [Hack The Box - LaCasaDePapel](#hack-the-box---lacasadepapel)
   - [Recon](#recon)
